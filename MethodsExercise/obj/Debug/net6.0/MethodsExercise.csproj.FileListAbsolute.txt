@@ -1,0 +1,15 @@
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/dhemari/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
